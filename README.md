@@ -1,6 +1,6 @@
 ## Task [RS School](https://rs.school/) Shelter
 
-![]()
+![](https://github.com/IrenaKowalewska/shelter/blob/main/assets/shelter-img.png)
 
 [Deploy shelter](https://rolling-scopes-school.github.io/irenakowalewska-JS2020Q3/shelter/pages/main/index.html) 
 
